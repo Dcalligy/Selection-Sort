@@ -6,7 +6,7 @@ The smallest element is selected from the unsorted array and swapped with the le
 
 Write a program that implements a selection sort. When given an array with n elements, selection_sort must do the following:
 
-* Search the array to find the largest element (use the function that find the index of the largest element),
+* Search the array to find the largest element (use the function that finds the index of the largest element),
 * Then swap the element at the last posistion of the array.
 * Call itself recursively to sort the first n-1 element of the array.
 
